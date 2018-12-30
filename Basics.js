@@ -6,6 +6,8 @@ var a="one";
 if (a=="one")
 	{
 	console.log("the statement is true with one");
+	console.log("the statement is true with one second part");
+	console.log("the statement is true with one third part");
 	}
 else if (a=="two")
 	{
