@@ -20,14 +20,14 @@ c[4]="bad";
 console.log(c.length+" is the size the new array");
 
 //Print current array
-console.log("Print the current array with 5 positions:");
+console.log("Print the current array with 5 positions properly included:");
 for(var i=0;i<c.length;i++)
 	{
 	console.log(c[i]);
 	}
 
 //Print array numbers in reverse.
-console.log("Print the array C in reverse:")
+console.log("Print the array C in reverse positions:")
 for(var j=c.length-1;j>=0;j--)
 	{
 	console.log(c[j]);

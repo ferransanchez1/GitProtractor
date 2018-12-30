@@ -12,6 +12,8 @@ var k=10;
 
 do
 	{
+	//Log on console when the number is less than six.
 	console.log("Number is less than six: ", k);
+	console.log("Successfully process");
 	k++;
 	} while (k<6)
