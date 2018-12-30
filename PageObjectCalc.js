@@ -1,4 +1,5 @@
 function  PageObjectCalc()
+//Page object for use in java script file.
 {
 this.getURL=function()
 {

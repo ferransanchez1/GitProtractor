@@ -11,6 +11,7 @@ function car()
 	this.getModel=function()
 	{
 		console.log("this is 2020 model");
+		console.log("These data are from page object model");
 	};
 };
 
